@@ -1,5 +1,7 @@
 # LM399 Voltage Reference
 
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/6804df9d-5990-4f65-bf45-5969585f57cc" />
+
 ![first-8-hours.png](first-8-hours.png)
 
 ![first-8-hours-histogram.png](first-8-hours-histogram.png
